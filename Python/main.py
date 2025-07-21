@@ -9,8 +9,17 @@
 
 # print(len(COURSE_NAME))
 
-print("Please type a number: ")
+# print("Please type a number: ")
 
-x = int(input('>'))
+# x = int(input('>'))
 
-print(x + 15)
+# print(x + 15)
+
+# print(len(course))
+# print(course[3])
+# print(course[-1])
+# print(course[0:3])
+
+course = "Programming \nLanguage"
+
+print(course)
