@@ -12,5 +12,11 @@ is_publish = False
 #String
 course = "Python"
 
-#Print function
+#List
+fruits = ['Apple', 'Orange', 'Banana']
+
+#Set
+numbers = {1, 2, 2, 3, 4, 4, 4, 5}
+
+#Print
 print(students_count)

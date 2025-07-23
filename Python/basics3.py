@@ -59,7 +59,7 @@ for x in "Python":
 print("---")
 
 
-#While Loops
+#While Loops, While loops are used for infinite loops. For loops are considered to use for finite loops
 number = 100
 while number > 0:
     print(number)
@@ -73,7 +73,6 @@ print("---")
 
 
 #Infinite Loop
-
 while True:
     command = input(">")
     print("ECHO", command)

@@ -1,3 +1,4 @@
+# First Attempt
 # for number in range (1, 5):
 #   print(number * 2)
 # print("We have 4 even numbers")
@@ -5,7 +6,7 @@
 # Example 2
 count = 0
 for number in range (1, 10):
-  if number % 2 == 0:
-    count += 1
-    print(number)
+    if number % 2 == 0:
+        count += 1
+        print(number)
 print(f"We have {count} even numbers")
