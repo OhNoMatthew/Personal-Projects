@@ -21,8 +21,13 @@ List of Languages within the file:
 - HTML
 - CSS
 - React
-- 
+- C++ (In the future)
+
 I will plan to add more files in the near future.
 
-Patch Notes:
-- Added and organized more of my python files
+Patch Notes 7/24/2025 :
+- Added some python concepts and useful python functions
+- will start to add date within the patch notes as of today
+
+Logs: (??)
+- I don't think this will be a permanent feature but I will try my best to add some logs.
