@@ -30,6 +30,10 @@ Patch Notes 7/25/2025 :
 - Added Random (Choice, Sample, Choices) function
 - Added Open file function
 
+** Pick a Number Game **
+- I just uploaded this game (7/25/2025, 5:47 PM)
+- I had some difficulty with try and except code LOL
+
 Logs: (??)
 - I don't think this will be a permanent feature but I will try my best to add some logs.
 - I would need to fix the perms and combs function. For some reason the code is working but is giving an syntax error to the code
