@@ -32,7 +32,7 @@ Patch Notes 7/25/2025 :
 
 ** Pick a Number Game **
 - I just uploaded this game (7/25/2025, 5:47 PM)
-- I had some difficulty with try and except code LOL
+- I just updated this again to add the ranges for each difficulty
 
 Logs: (??)
 - I don't think this will be a permanent feature but I will try my best to add some logs.
