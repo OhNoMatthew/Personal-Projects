@@ -25,9 +25,11 @@ List of Languages within the file:
 
 I will plan to add more files in the near future.
 
-Patch Notes 7/24/2025 :
-- Added some python concepts and useful python functions
-- will start to add date within the patch notes as of today
+Patch Notes 7/25/2025 :
+- Added Permutations and Combination fucntion (Needs fixing)
+- Added Random (Choice, Sample, Choices) function
+- Added Open file function
 
 Logs: (??)
 - I don't think this will be a permanent feature but I will try my best to add some logs.
+- I would need to fix the perms and combs function. For some reason the code is working but is giving an syntax error to the code
