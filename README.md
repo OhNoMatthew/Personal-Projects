@@ -30,7 +30,7 @@ Patch Notes 7/25/2025 :
 - Added Random (Choice, Sample, Choices) function
 - Added Open file function
 
-** Pick a Number Game **
+** Guess the Number Game **
 - I just uploaded this game (7/25/2025, 5:47 PM)
 - I just updated this again to add the ranges for each difficulty
 
