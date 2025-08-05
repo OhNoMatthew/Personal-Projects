@@ -27,8 +27,8 @@ List of Languages within the file:
 
 I will plan to add more files in the near future.
 
-Patch Notes 7/28/2025 :
-- Worked on the Guess the Number game
+Patch Notes 8/5/2025 :
+- Worked on Stacks. I need to freshen up moreo ndata structures
 
 ** Guess the Number Game **
 - I just uploaded this game (7/25/2025, 5:47 PM)
@@ -40,4 +40,4 @@ UPDATE - Turns out you get two guesses within picking numbers. I'm thinking of k
 
 Logs: (??)
 ** I don't think this will be a permanent feature but I will try my best to add some logs. **
-- I didn't work much this weekend. I was busy this weekend but it was also good timing so I wouldn't burn myself out with just coding.
+- I just setup my pc as of today. Will be getting back on the grind now that everythign is setup. I just recently moved into a new place.
