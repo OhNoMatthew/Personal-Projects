@@ -28,16 +28,14 @@ List of Languages within the file:
 I will plan to add more files in the near future.
 
 Patch Notes 8/5/2025 :
-- Worked on Stacks. I need to freshen up moreo ndata structures
+- Worked on Queues and Dequeues.
 
 ** Guess the Number Game **
 - I just uploaded this game (7/25/2025, 5:47 PM)
-- I added wins. Each time you guess a number right you get a win added to your record. ( Goes for all modes )
 
 ** BUG FIXES **
-  - It would give errors and exit the program if you enter nothing while picking a number
-UPDATE - Turns out you get two guesses within picking numbers. I'm thinking of keeping it maybe so it might not be a bug?
+N/A
 
 Logs: (??)
 ** I don't think this will be a permanent feature but I will try my best to add some logs. **
-- I just setup my pc as of today. Will be getting back on the grind now that everythign is setup. I just recently moved into a new place.
+- I worked on some Queues and Dequeues. I have also compared the Stacks and Queues with their differences and similarties to try and further my knowledge on the topic.
