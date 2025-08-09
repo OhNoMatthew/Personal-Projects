@@ -11,6 +11,8 @@ Interests:
 
 🔐 Cyber Security
 
+📊 Data Anylist
+
 I’m always eager to grow, build meaningful projects, and learn something new every day.
 
 This is a space where I add all my known coding files. 
@@ -27,8 +29,10 @@ List of Languages within the file:
 
 I will plan to add more files in the near future.
 
-Patch Notes 8/5/2025 :
-- Worked on Queues and Dequeues.
+Patch Notes 8/7/2025 :
+- Worked on linked lists
+- I have looked at singly, doubly, and circular linked lists
+- Also added dictionaries
 
 ** Guess the Number Game **
 - I just uploaded this game (7/25/2025, 5:47 PM)
@@ -38,4 +42,4 @@ N/A
 
 Logs: (??)
 ** I don't think this will be a permanent feature but I will try my best to add some logs. **
-- I worked on some Queues and Dequeues. I have also compared the Stacks and Queues with their differences and similarties to try and further my knowledge on the topic.
+- I worked on some linked lists. I have also added a small file for dictionaries.
