@@ -29,10 +29,8 @@ List of Languages within the file:
 
 I will plan to add more files in the near future.
 
-Patch Notes 8/7/2025 :
-- Worked on linked lists
-- I have looked at singly, doubly, and circular linked lists
-- Also added dictionaries
+Patch Notes 8/8/2025 :
+- Worked on Hash Tables
 
 ** Guess the Number Game **
 - I just uploaded this game (7/25/2025, 5:47 PM)
@@ -42,4 +40,4 @@ N/A
 
 Logs: (??)
 ** I don't think this will be a permanent feature but I will try my best to add some logs. **
-- I worked on some linked lists. I have also added a small file for dictionaries.
+- I worked on Hash Tables. I plan to start making some website just to practice and throw in some express js or next js.
