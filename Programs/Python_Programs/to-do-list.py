@@ -1,11 +1,11 @@
 """ Simple To Do List """
 
-my_task = []
+my_task: list = []
 
 # Add a task
 def addTask():
     """ Adding a Task """
-    task = input('Please enter a task: ')
+    task: str = input('Please enter a task: ')
     my_task.append(task)
     print(f'Task, {task} has been added to the list!')
 
