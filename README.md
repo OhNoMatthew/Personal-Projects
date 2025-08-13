@@ -29,18 +29,21 @@ List of Languages within the file:
 
 I will plan to add more files in the near future.
 
-Patch Notes 8/8/2025 :
+Patch Notes 8/12/2025 :
 - Added some Algorithms such as Binary and Linear search algorithms
+- Added my to do list program.
 
 ** Guess the Number Game **
 - I just uploaded this game (7/25/2025, 5:47 PM)
 
 ** To-Do-List App **
 - Starting off with a small and simple to do list (8/10/2025, 8:51 PM)
+- Just finished it today! (8/12/2025) just took a bit longer as I was pretty busy.
 
 ** BUG FIXES **
 N/A
 
 Logs: (??)
 ** I don't think this will be a permanent feature but I will try my best to add some logs. **
-- Did some simple learning more about binary and linear search algorithms.
+- I just added a to do list program.
+- I plan to add some other features with it just not sure yet.
