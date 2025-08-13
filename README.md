@@ -22,16 +22,17 @@ List of Languages within the file:
 - Python
 - Java
 - JavaScript
+- TypeSript (Future)
 - HTML
 - CSS
-- React
-- C++ (In the future)
+- React (Future)
+- C++ (Future)
 
 I will plan to add more files in the near future.
 
-Patch Notes 8/12/2025 :
-- Added some Algorithms such as Binary and Linear search algorithms
-- Added my to do list program.
+Patch Notes 8/13/2025 :
+- Added some Algorithms
+- Learned some Bubble Sort and Selection Sort
 
 ** Guess the Number Game **
 - I just uploaded this game (7/25/2025, 5:47 PM)
@@ -45,5 +46,5 @@ N/A
 
 Logs: (??)
 ** I don't think this will be a permanent feature but I will try my best to add some logs. **
-- I just added a to do list program.
-- I plan to add some other features with it just not sure yet.
+- Just did some more simple learning today. Consistent is key and I wanna keep it that way.
+- I think I will add more to my personal website card and try to research on CSS. Pretty excited.
