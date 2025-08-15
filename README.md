@@ -30,21 +30,19 @@ List of Languages within the file:
 
 I will plan to add more files in the near future.
 
-Patch Notes 8/13/2025 :
-- Added some Algorithms
-- Learned some Bubble Sort and Selection Sort
+Patch Notes 8/14/2025 :
+- Learned Insertion and Quick Sort
+- Refreshed on Recurssion code
 
-** Guess the Number Game **
-- I just uploaded this game (7/25/2025, 5:47 PM)
+** Guess the Number Game ** (Published: (7/25/2025, 5:47 PM))
+N/A
 
-** To-Do-List App **
-- Starting off with a small and simple to do list (8/10/2025, 8:51 PM)
-- Just finished it today! (8/12/2025) just took a bit longer as I was pretty busy.
+** To-Do-List App ** (Published: (8/12/2025, 9:20 PM))
+N/A
 
 ** BUG FIXES **
 N/A
 
 Logs: (??)
 ** I don't think this will be a permanent feature but I will try my best to add some logs. **
-- Just did some more simple learning today. Consistent is key and I wanna keep it that way.
-- I think I will add more to my personal website card and try to research on CSS. Pretty excited.
+- More simple osrting algorithms again today. I leanred Insertion and Quick Sort.
