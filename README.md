@@ -30,9 +30,8 @@ List of Languages within the file:
 
 I will plan to add more files in the near future.
 
-Patch Notes 8/14/2025 :
-- Learned Insertion and Quick Sort
-- Refreshed on Recurssion code
+Patch Notes 8/16/2025 :
+- Learned Counting and Radix Sorting
 
 ** Guess the Number Game ** (Published: (7/25/2025, 5:47 PM))
 N/A
@@ -45,4 +44,4 @@ N/A
 
 Logs: (??)
 ** I don't think this will be a permanent feature but I will try my best to add some logs. **
-- More simple osrting algorithms again today. I leanred Insertion and Quick Sort.
+- Gonna learn Merge sort either later today or tomorrow. Radix and Counting Sort are something I have never seen before from what I can try to remember.
