@@ -11,7 +11,7 @@ def easy() -> None:
     except not random.randint(1,10):
         print('Bruh that\'s not a valid guess...')
     
-    # Check if the nubmer is the same as the bot.
+    # Check if the number is the same as the bot.
     if user_guess == random_number:
         print("You guessed correct!")
 
