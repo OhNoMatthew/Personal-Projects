@@ -1,0 +1,8 @@
+body {
+  background-color: #2d3250;
+}
+
+.card {
+  height: fit-content;
+  width: fit-content;
+}
