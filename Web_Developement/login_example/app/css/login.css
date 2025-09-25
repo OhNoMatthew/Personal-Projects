@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(7,23,49);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vh;
+  height: 100vh;
+  padding: 10px;
+  background-color: #647384;
+  border-radius: 5px;
+  margin: auto;
+  box-shadow: 8px 10px 15px black;
+}
+
+label {
+  color: aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+form {
+  text-align: center;
+}
+
+.password {
+  display: flex;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 4px 6px 12px black;
+}
+
+.username {
+  display: flex;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 4px 6px 12px black;
+}
+
+.submit {
+  color: #4B81AB;
+  display: flex;
+  margin: auto;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 4px 6px 12px black;
+
+}
